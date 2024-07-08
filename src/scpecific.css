@@ -1,0 +1,25 @@
+.dark {
+  background-color: #242424;
+  color: antiquewhite;
+}
+.light {
+  background-color: antiquewhite;
+  color: #242424;
+}
+.lightCard {
+  background-color: #ffe4c4bf !important ;
+  color: #242424 !important ;
+}
+.darkCard {
+  background-color: #2c2c2c !important ;
+  color: antiquewhite !important;
+}
+
+.lightButton {
+  background-color: #e3caa5 !important;
+  color: #000 !important;
+}
+.darkButton {
+  background-color: aliceblue !important;
+  color: #000 !important;
+}

@@ -47,12 +47,14 @@
     "@testing-library/jest-dom": "^6.4.6",
     "@testing-library/react": "^16.0.0",
     "@testing-library/user-event": "^14.5.2",
+    "formik": "^2.4.6",
     "jest-config": "^29.7.0",
     "jsdom": "^24.1.0",
     "react-router-dom": "^6.24.0",
     "react-test-renderer": "^18.3.1",
     "swiper": "^11.1.4",
     "vite": "^5.3.3",
-    "vitest": "^1.6.0"
+    "vitest": "^1.6.0",
+    "yup": "^1.4.0"
   }
 }

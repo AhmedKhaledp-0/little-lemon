@@ -1,6 +1,8 @@
-
-html, body, #app, #app>div {
-  height: 100%
+html,
+body,
+#app,
+#app > div {
+  height: 100%;
 }
 
 #root {
@@ -8,7 +10,7 @@ html, body, #app, #app>div {
   padding: 0;
 }
 
-.css-lgj0h8{
+.css-lgj0h8 {
   width: 100%;
 }
 
@@ -24,11 +26,11 @@ html, body, #app, #app>div {
   color: #888;
 }
 
-.blacklink{
+.blacklink {
   color: #000 !important;
 }
 
-.App{
+.App {
   max-width: 1300px;
   min-height: 100vh;
 }
