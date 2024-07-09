@@ -4,7 +4,7 @@ import { useContext } from "react";
 import ThemeBotton from "./ThemeToggle";
 import { ThemeContext } from "../contexts/theme";
 
-function Test() {
+function Test () {
   const { darkMode } = useContext(ThemeContext);
   return (
     <div className={darkMode ? "canvas-dark" : "canvas"}>
